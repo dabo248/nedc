@@ -2,6 +2,7 @@
 
 # Serialized New European Drive Cycle
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/david145/nedc/blob/master/LICENSE)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/david145/nedc/blob/master/LICENSE)
 
 ### NEDC processed into computer-understandable formats
 
