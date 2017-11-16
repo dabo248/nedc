@@ -3,7 +3,7 @@
 # Serialized New European Drive Cycle
 [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/david145/nedc/blob/master/LICENSE)
 
-### NEDC processed into computer-understandable formats (JSON, XML, CSV)
+### NEDC processed into computer-understandable formats
 
 New European Drive Cycle is used to calculate consumption of electric vehicles and vehicles based on combustion engines.
 
