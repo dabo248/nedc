@@ -1,0 +1,114 @@
+{
+    "udc": {
+        "segments": [
+            {
+                "start_velocity": 0,
+                "end_velocity": 0,
+                "acceleration": 0,
+                "duration": 11
+            },
+            {
+                "start_velocity": 0,
+                "end_velocity": 15,
+                "acceleration": 1.04,
+                "duration": 4
+            },
+            {
+                "start_velocity": 15,
+                "end_velocity": 15,
+                "acceleration": 0,
+                "duration": 8
+            },
+            {
+                "start_velocity": 15,
+                "end_velocity": 0,
+                "acceleration": -0.83,
+                "duration": 5
+            },
+            {
+                "start_velocity": 0,
+                "end_velocity": 0,
+                "acceleration": 0,
+                "duration": 21
+            },
+            {
+                "start_velocity": 0,
+                "end_velocity": 15,
+                "acceleration": 0.69,
+                "duration": 6
+            },
+            {
+                "start_velocity": 15,
+                "end_velocity": 32,
+                "acceleration": 0.79,
+                "duration": 6
+            },
+            {
+                "start_velocity": 32,
+                "end_velocity": 32,
+                "acceleration": 0,
+                "duration": 24
+            },
+            {
+                "start_velocity": 32,
+                "end_velocity": 0,
+                "acceleration": -0.81,
+                "duration": 11
+            },
+            {
+                "start_velocity": 0,
+                "end_velocity": 0,
+                "acceleration": 0,
+                "duration": 21
+            },
+            {
+                "start_velocity": 0,
+                "end_velocity": 15,
+                "acceleration": 0.69,
+                "duration": 6
+            },
+            {
+                "start_velocity": 15,
+                "end_velocity": 35,
+                "acceleration": 0.51,
+                "duration": 11
+            },
+            {
+                "start_velocity": 35,
+                "end_velocity": 50,
+                "acceleration": 0.46,
+                "duration": 9
+            },
+            {
+                "start_velocity": 50,
+                "end_velocity": 50,
+                "acceleration": 0,
+                "duration": 12
+            },
+            {
+                "start_velocity": 50,
+                "end_velocity": 35,
+                "acceleration": -0.52,
+                "duration": 8
+            },
+            {
+                "start_velocity": 35,
+                "end_velocity": 35,
+                "acceleration": 0,
+                "duration": 15
+            },
+            {
+                "start_velocity": 35,
+                "end_velocity": 0,
+                "acceleration": -0.97,
+                "duration": 10
+            },
+            {
+                "start_velocity": 0,
+                "end_velocity": 0,
+                "acceleration": 0,
+                "duration": 7
+            }
+        ]
+    }
+}
