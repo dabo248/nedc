@@ -458,7 +458,7 @@
                 },
                 {
                     "start_velocity": 35,
-                    "end_velocity": 70,
+                    "end_velocity": 50,
                     "acceleration": 0.42,
                     "duration": 10
                 },
